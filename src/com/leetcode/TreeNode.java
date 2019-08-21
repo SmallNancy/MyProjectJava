@@ -5,10 +5,10 @@ package com.leetcode;
         * @date 2019/7/21 20:31
         */
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) {
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
+    public TreeNode(int x) {
         val = x;
     }
 }
