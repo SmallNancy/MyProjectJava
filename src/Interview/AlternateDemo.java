@@ -7,6 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @author YanQiKing
  * @date 2019/8/31 9:34
+ * 三个线程，顺序打印ABC
  */
 public class AlternateDemo {
     public static void main(String[] args) {
